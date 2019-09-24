@@ -10,9 +10,9 @@ You should NOT try to redefine any of the above variables.
 
 
 
-
-var oldID = Math.random()
 var newID = oldID + 1000000000
+var oldID = Math.random()
+
 
 //var random = Math.random()
 //Math.floor(Math.random() * 20) + 1;
