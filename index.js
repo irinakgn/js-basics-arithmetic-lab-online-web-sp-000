@@ -15,7 +15,7 @@ var newID
 
 var ageIsValid = false
 
-if(typeof currentAge === 'number'){
+if(Number.isInteger(currentAge){
   ageIsValid = true
 }else{
   ageIsValid = false
