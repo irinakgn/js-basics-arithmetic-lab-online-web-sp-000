@@ -15,7 +15,9 @@ var newID
 var currentAge = 32
 var ageIsValid
 
-if(typeof currentAge === 'number' )
+if(typeof currentAge === 'number'){
+  ageIsValid = true
+}
 
 //var random = Math.random()
 //Math.floor(Math.random() * 20) + 1;
