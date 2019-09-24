@@ -22,4 +22,4 @@ if(typeof currentAge === 'number'){
 }
 
 var randomNumber = Math.random()
-//Math.floor(Math.random() * 20) + 1;
+var randomInteger = Math.floor(Math.random() * 20) + 1;
