@@ -14,8 +14,8 @@ var newID = 1000000000 + oldID
 
 
 var ageIsValid = false
-Number.isInteger(currentAge)
-if(typeof currentAge === 'number'){
+
+if(Number.isInteger(currentAge)){
   ageIsValid = true
 }else{
   ageIsValid = false
