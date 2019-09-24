@@ -13,7 +13,7 @@ You should NOT try to redefine any of the above variables.
 var newID
 
 var currentAge = 32
-var ageIsValid
+var ageIsValid = false
 
 if(typeof currentAge === 'number'){
   ageIsValid = true
