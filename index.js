@@ -23,3 +23,5 @@ if(typeof currentAge === 'number'){
 
 var randomNumber = Math.random()
 var randomInteger =0 // Math.floor(randomNumber * 20) + 1;
+
+var randomUserID = 0
