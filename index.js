@@ -21,5 +21,5 @@ if(typeof currentAge === 'number'){
   ageIsValid = false
 }
 
-var andomNumber = Math.random()
+var randomNumber = Math.random()
 //Math.floor(Math.random() * 20) + 1;
