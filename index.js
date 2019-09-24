@@ -17,6 +17,8 @@ var ageIsValid
 
 if(typeof currentAge === 'number'){
   ageIsValid = true
+}else{
+  ageIsValid = false
 }
 
 //var random = Math.random()
