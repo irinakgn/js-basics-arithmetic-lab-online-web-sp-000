@@ -14,7 +14,7 @@ var newID
 
 var currentAge = 32
 
-
+var ageIsValid
 
 //var random = Math.random()
 //Math.floor(Math.random() * 20) + 1;
