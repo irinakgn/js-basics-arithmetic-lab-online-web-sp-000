@@ -10,7 +10,7 @@ You should NOT try to redefine any of the above variables.
 
 
 
-var newID 
+var newID = 1000000 + oldID
 
 
 var ageIsValid = false
