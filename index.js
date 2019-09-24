@@ -11,7 +11,7 @@ You should NOT try to redefine any of the above variables.
 
 
 var newID
-var oldID = 71
+var oldID = 3
 
 //var random = Math.random()
 //Math.floor(Math.random() * 20) + 1;
